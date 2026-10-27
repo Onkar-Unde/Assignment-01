@@ -1,1 +1,1 @@
-![FireShot Capture 002 - Weather Dashboard -  127 0 0 1](https://github.com/user-attachments/assets/b579e2fe-b26a-4840-8b2e-931ad380d297)
+<img width="1920" height="1731" alt="Assignment-01" src="https://github.com/user-attachments/assets/4fae8913-d64e-4b26-99f9-5adfda40e46f" />
